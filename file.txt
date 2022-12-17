@@ -3,4 +3,5 @@ hello
 world
 test2
 new data
+error
 asdfsdf
